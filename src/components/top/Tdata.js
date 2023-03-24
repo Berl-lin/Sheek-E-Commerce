@@ -1,28 +1,28 @@
 const Tdata = [
   {
     cover: "./images/top/category-1.png",
-    para: "headphone",
-    desc: "3k orders this week",
+    para: "Nike",
+    desc: "450 orders+",
   },
   {
     cover: "./images/top/category-2.png",
-    para: "watch",
-    desc: "4k orders this week",
+    para: "Givenchy",
+    desc: "200 orders+",
   },
   {
     cover: "./images/top/category-3.png",
-    para: "sunglass",
-    desc: "6k orders this week",
+    para: "Adidas",
+    desc: "600 orders+",
   },
   {
     cover: "./images/top/category-2.png",
-    para: "watch",
-    desc: "4k orders this week",
+    para: "Givenchy",
+    desc: "200 orders+",
   },
   {
     cover: "./images/top/category-3.png",
-    para: "sunglass",
-    desc: "6k orders this week",
+    para: "Adidas",
+    desc: "600 orders+",
   },
 ]
 

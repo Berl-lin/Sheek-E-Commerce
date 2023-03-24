@@ -1,33 +1,33 @@
 const Ndata = [
   {
     cover: "./images/arrivals/arrivals1.png",
-    name: "Sunglass",
-    price: "150",
+    name: "Timbuk2 Tuck Pack",
+    price: "140",
   },
   {
     cover: "./images/arrivals/arrivals2.png",
-    name: "Makeup",
-    price: "250",
+    name: "Prada Pumps Leather",
+    price: "200",
   },
   {
     cover: "./images/arrivals/arrivals3.png",
-    name: "Smart Watch",
-    price: "50",
+    name: "Apple Watch Series 6",
+    price: "400",
   },
   {
     cover: "./images/arrivals/arrivals4.png",
-    name: "Lipstick",
-    price: "15",
+    name: "Logitech MX Master 3S",
+    price: "70",
   },
   {
     cover: "./images/arrivals/arrivals5.png",
-    name: "Green Plant",
-    price: "10",
+    name: "Converse Play, Low Top",
+    price: "160",
   },
   {
     cover: "./images/arrivals/arrivals6.png",
-    name: "Bonsai tree",
-    price: "400",
+    name: "M2 MacBook Air",
+    price: "2500",
   },
 ]
 

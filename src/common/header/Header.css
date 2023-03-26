@@ -24,7 +24,7 @@
   width: 20%;
 }
 .search-box {
-  width: 80%;
+  width: 60%;
   border: 2px solid rgba(0, 0, 0, 0.1);
   /*padding: 10px;*/
   border-radius: 50px;
@@ -42,7 +42,7 @@
   padding: 10px;
 }
 ::placeholder {
-  font-size: 15px;
+  font-size: 12px;
 }
 .search-box span {
   width: 20%;
@@ -56,12 +56,12 @@
 .search .cart span {
   position: absolute;
   top: -10px;
-  right: 0px;
+  right: 70px;
   width: 20px;
   height: 20px;
   border-radius: 50%;
   text-align: center;
-  background-color: #e94560;
+  background-color: #057eae;
   font-size: 12px;
   color: #fff;
 }
@@ -89,11 +89,11 @@
   margin-left: 10px;
 }
 header {
-  height: 8vh;
+  height: 2.2vh;
   box-shadow: -1px 15px 17px -8px rgba(0, 0, 0, 0.1);
 }
 header ul {
-  line-height: 8vh;
+  line-height: 6vh;
 }
 header ul li {
   margin-left: 30px;
@@ -104,7 +104,7 @@ header ul li a {
   font-weight: 400;
 }
 header ul li a:hover {
-  color: #ff014f;
+  color: #F3C9DD;
 }
 
 .open {
@@ -152,7 +152,7 @@ header ul li a:hover {
     position: absolute;
     top: 35px;
     right: 20px;
-    color: #ff014f;
+    color: #057eae;
     display: block;
     font-size: 25px;
     z-index: 999;
@@ -162,7 +162,7 @@ header ul li a:hover {
   }
   .close.home-btn {
     background: linear-gradient(145deg, #e2e8ec, #ffffff);
-    color: #ff014f;
+    color: #057eae;
     border-radius: 50%;
     padding: 0;
     width: 60px;
@@ -172,4 +172,4 @@ header ul li a:hover {
   .header.active {
     height: 10vh;
   }
-}
+ }

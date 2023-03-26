@@ -4,27 +4,27 @@ const Catg = () => {
   const data = [
     {
       cateImg: "./images/category/cat-1.png",
+      cateName: "Sony",
+    },
+    {
+      cateImg: "./images/category/cat-2.png",
       cateName: "Apple",
     },
     {
-      cateImg: "./images/category/cat-2.png",
-      cateName: "Samasung",
+      cateImg: "./images/category/cat-3.png",
+      cateName: "Samsung",
     },
     {
-      cateImg: "./images/category/cat-1.png",
-      cateName: "Oppo",
+      cateImg: "./images/category/cat-4.png",
+      cateName: "HP",
     },
     {
-      cateImg: "./images/category/cat-2.png",
-      cateName: "Vivo",
+      cateImg: "./images/category/cat-5.png",
+      cateName: "PlayStation",
     },
     {
-      cateImg: "./images/category/cat-1.png",
-      cateName: "Redimi",
-    },
-    {
-      cateImg: "./images/category/cat-2.png",
-      cateName: "Sony",
+      cateImg: "./images/category/cat-6.png",
+      cateName: "LG",
     },
   ]
   return (
@@ -43,7 +43,7 @@ const Catg = () => {
           )
         })}
         <div className='box box2'>
-          <button>View All Brands</button>
+          <button>Check Out All Brands</button>
         </div>
       </div>
     </>

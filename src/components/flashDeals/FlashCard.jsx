@@ -60,7 +60,7 @@ const FlashCard = ({ productItems, addToCart }) => {
                     <i className='fa fa-star'></i>
                     <i className='fa fa-star'></i>
                     <i className='fa fa-star'></i>
-                    <i className='fa fa-star'></i>
+                    <i className='fa fa-star-half'></i>
                   </div>
                   <div className='price'>
                     <h4>${productItems.price}.00 </h4>

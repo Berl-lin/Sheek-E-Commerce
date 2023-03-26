@@ -1,70 +1,61 @@
-# Getting Started with Create React App
+# SheeK E-Commerce Website
 
-This project was bootstrapped with....
+By Christabell Owusu[Github](https://github.com/Berl-lin)
+ This project is a requirement to complete my ALX Programme - The final project.
 
-## Available Scripts
+## Project Description - Why Sheek?
 
-In the project directory, you can run:
+In Ghana, a major challenge most people face is investing in quality goods. There is this wierd believe that "second hand' products are "the best". Hence most people would purchase these items over brand new ones. The incentivising factors include;
+- Fear of buying fake products or imitations
+- Non-durable products, due to poor quality
+- Very few verified legit sources to purchase these items.
+- Shipped products become too expensive to purchase.
+- Lack of trust in online shops because of fears of being scammed or frauded.
 
-### `npm start`
+Regardless of all these, perspectives are shifting in favour of mobile technology usage.The e-commerce numbers are surging and this is just the beginning - at least for Africa.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+SheeK's goal is to provide a safe virtual store for all major brands in the world. Upsides include;
+- Products and price comparisons
+- Able to budget 
+- Convenience.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+ So, as a developer, I went with the E-commerce concept to lay the foundation for an application that may change the lives of many.
 
-### `npm test`
+N.B: The work is done focusing on just the Frontend - No Backend.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+### `Deliverables`
+- Web Design
+- Website Development
+- Web Application
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### `Future Development`
+- Add key Pages, like the Blog, Product view and Partners.
+Enable Account Creation
+- Make the application responsive
+- Add a backend.
+- Improve the design/UI
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Project Execution
 
-### `npm run eject`
+### `Technologies used`
+- HTML
+- CSS
+- JavaScript
+- React
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### `Other Tech`
+- Trello - Project Management
+- Figma - Web Design
+- VS Code - Web Development
+- Vercel - Hosting
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+## SheeK Website Preview
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+###### SheeK's Homepage
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![1 Main Page of ecommerce website](https://user-images.githubusercontent.com/75227040/134665487-4a444dd5-8e42-4bef-a9d9-7b4574ff78c1.png)

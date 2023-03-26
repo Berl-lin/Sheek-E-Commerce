@@ -59,4 +59,4 @@ Enable Account Creation
 
 ###### SheeK's Homepage
 
-![The Homepage](https://github.com/Berl-lin/Sheek-E-Commerce/blob/master/public/SheekHomepagescreenshot.jpg)
+![The Homepage]([https://github.com/Berl-lin/Sheek-E-Commerce/blob/master/public/SheekHomepagescreenshot.jpg](https://github.com/Berl-lin/Sheek-E-Commerce/blob/3de07c8e0d770d2a389f65f37472d1a0c27fbdb4/public/Sheek%20Homepage%20screenshot.jpg))

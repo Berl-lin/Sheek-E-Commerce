@@ -1,11 +1,12 @@
 # SheeK E-Commerce Website
 
-By Christabell Owusu[Github](https://github.com/Berl-lin)
- This project is a requirement to complete my ALX Programme - The final project.
+By Christabell Owusu [My Github](https://github.com/Berl-lin)
+
+This project is a requirement to complete my ALX Programme - The final project.
 
 ## Project Description - Why Sheek?
 
-In Ghana, a major challenge most people face is investing in quality goods. There is this wierd believe that "second hand' products are "the best". Hence most people would purchase these items over brand new ones. The incentivising factors include;
+In Ghana, a major challenge most people face is investing in quality goods. There is this wierd believe that "second hand" products are "the best". Hence most people would purchase these items over brand new ones. The incentivising factors include;
 - Fear of buying fake products or imitations
 - Non-durable products, due to poor quality
 - Very few verified legit sources to purchase these items.
